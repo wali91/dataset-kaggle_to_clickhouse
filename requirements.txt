@@ -1,0 +1,4 @@
+kaggle>=1.6
+pandas>=2.0
+clickhouse-connect>=0.7
+python-dotenv>=1.0
